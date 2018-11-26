@@ -1,7 +1,7 @@
 #!/bin/bash
 # @Description: clicknupload.org file download script
 # @Author: Juni Yadi
-# @URL: https://github.com/JuniYadi/upvid
+# @URL: https://github.com/JuniYadi/clicknupload
 # @Version: 201811262126
 # @Date: 2018-11-26
 # @Usage: ./clicknupload.sh url
